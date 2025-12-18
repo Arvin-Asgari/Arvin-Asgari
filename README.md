@@ -2,7 +2,7 @@
 
 # Hi, I'm **Arvin Asgari** 👋
 
-![Computer Engineering](https://img.shields.io/badge/Computer%20Engineering-Gilan%20University%202024-0056D2?style=flat&logo=google-scholar&logoColor=white)
+![Computer Engineering](https://img.shields.io/badge/Computer%20Engineering-Guilan%20University%202024-0056D2?style=flat&logo=google-scholar&logoColor=white)
 
 **AI/ML Specialist | Google Assistant Developer (2018)**
 
