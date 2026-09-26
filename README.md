@@ -1,61 +1,62 @@
 <div align="center">
 
 <!-- Hero Banner Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,26&height=220&section=header&text=Arvin%20Asgari&fontSize=42&fontAlignY=36&desc=Full-Stack%20Engineer%20%E2%80%A2%20Applied%20AI%2FML%20Specialist&descAlignY=58&descSize=19&fontColor=ffffff&descColor=93c5fd" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,26&height=220&section=header&text=Arvin%20Asgari&fontSize=42&fontAlignY=36&desc=Full-Stack%20Engineer%20%E2%80%A2%20Founder%20cryptotools.site%20%E2%80%A2%20AI%2FML%20Specialist&descAlignY=58&descSize=18&fontColor=ffffff&descColor=93c5fd" width="100%" />
 
-<!-- Animated Typing Subtitle -->
+<br/>
+
+<!-- Top Priority Badges & Direct Links -->
 <p align="center">
-  <a href="https://github.com/Arvin-Asgari">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Distributed+Systems;Enterprise+ERP+Architect+(Quotify+v6.0);Applied+AI+%26+Persian+NLP+Specialist;Genetic+Algorithms+%26+Optimization" alt="Typing SVG" />
+  <a href="https://cryptotools.site" target="_blank">
+    <img src="https://img.shields.io/badge/Founder-cryptotools.site-10b981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="cryptotools.site" />
   </a>
-</p>
-
-<!-- Top Badges & Social Links -->
-<p align="center">
-  <a href="mailto:arvin.asgari.business@gmail.com">
-    <img src="https://img.shields.io/badge/Email-arvin.asgari.business%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:arvin.asgari3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-arvin.asgari3%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Arvin-Asgari">
     <img src="https://img.shields.io/badge/GitHub-Arvin--Asgari-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://ptslab.ae" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Production-ptslab.ae-0056D2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Production Site" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Arvin-Asgari&style=for-the-badge&color=0284c7" alt="Profile Views" />
 </p>
 
+<!-- Production Client Sites -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Education-B.Sc.%20Computer%20Engineering%20(Guilan%20Univ)-0ea5e9?style=flat-square&logo=google-scholar&logoColor=white" alt="Guilan University" />
-  <img src="https://img.shields.io/badge/Specialization-AI%20%2F%20Machine%20Learning-8b5cf6?style=flat-square&logo=pytorch&logoColor=white" alt="AI Specialist" />
-  <img src="https://img.shields.io/badge/Architecture-Enterprise%20Full--Stack-10b981?style=flat-square&logo=django&logoColor=white" alt="Full Stack" />
+  <a href="https://ptslab.ae" target="_blank">
+    <img src="https://img.shields.io/badge/Production%20Client-ptslab.ae-0056D2?style=flat-square&logo=google-chrome&logoColor=white" alt="ptslab.ae" />
+  </a>
+  <a href="https://polymertest.com" target="_blank">
+    <img src="https://img.shields.io/badge/Production%20Client-polymertest.com-0284c7?style=flat-square&logo=google-chrome&logoColor=white" alt="polymertest.com" />
+  </a>
+  <img src="https://img.shields.io/badge/Google%20Assistant-Developer%20(2018)-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Assistant Developer" />
+  <img src="https://img.shields.io/badge/Education-B.Sc.%20Computer%20Engineering%20(Guilan%20Univ%202024)-0ea5e9?style=flat-square&logo=google-scholar&logoColor=white" alt="Guilan University" />
 </p>
 
 </div>
 
 ---
 
-### 👨‍💻 Executive Summary
+### 👨‍💻 About Me
 
-I am a **Full-Stack & Applied AI Engineer** passionate about turning complex algorithmic research and machine learning models into resilient, production-ready enterprise applications.
+I am a **Full-Stack Software Engineer & AI/ML Specialist** building high-reliability web platforms, optimization engines, and applied machine learning models.
 
-* 🏢 **Enterprise Systems Architect:** Lead designer and developer of **Quotify** (v6.0.2), an enterprise B2B quotation, invoicing, and real-time communication platform deployed in production for **PTS Lab** ([ptslab.ae](https://ptslab.ae) & polymertest.com).
-* 🤖 **Applied AI & NLP:** Experienced in fine-tuning Transformer LLMs (GPT-2 for Persian poetry generation and 3-class sentiment analysis) and developing low-latency Computer Vision pipelines (CNNs + OpenCV).
-* ⚡ **Modern Full-Stack Engineering:** Designing end-to-end architectures utilizing **Python, Django, React, TypeScript, Docker, and Nginx**.
-* 🧬 **Combinatorial Optimization:** Developing custom Genetic Algorithms and heuristic search systems to eliminate real-world operational bottlenecks (timetable conflicts, knapsack optimization).
+* 🚀 **Founder of [cryptotools.site](https://cryptotools.site):** Creator of a high-performance financial and cryptocurrency calculation platform localized in multiple languages (EN, ES, TR).
+* 🏢 **Enterprise Systems Architect:** Lead architect and developer of **Quotify** (v6.0.2), an enterprise B2B quotation, invoicing, and real-time chat automation system powering **PTS Lab** ([ptslab.ae](https://ptslab.ae) & [polymertest.com](https://polymertest.com)).
+* 🤖 **Applied AI & Persian NLP:** Experienced in fine-tuning Transformer LLMs (GPT-2 for classical Persian poetry generation and 3-class sentiment analysis) and real-time Computer Vision pipelines (CNNs + OpenCV).
+* 🧬 **Combinatorial Optimization:** Designing custom genetic algorithms to eliminate multi-constraint operational bottlenecks (university timetable scheduling and knapsack optimization).
+* 🏅 **Google Assistant Developer (2018):** Early developer in conversational AI and voice assistant integrations.
 
 ---
 
-### 🌟 Featured Engineering Projects
+### 🌟 Featured Projects & Case Studies
 
-| Project | Category & Impact | Tech Stack | Status / Links |
+| Project | Role & Description | Tech Stack | Status / Links |
 | :--- | :--- | :--- | :--- |
-| **[Quotify Enterprise ERP](https://ptslab.ae)** | **Enterprise B2B Automation (v6.0.2)**<br>Automated quotation engine (`PTS-Q-1405-xxx`), multi-tenant webhooks (WPForms/Elementor), real-time customer chat with infinite scroll pagination, and failover Ubuntu/Docker deployment. | `Django` `React` `Docker` `Nginx` `PostgreSQL` `Webhooks` | [![Production](https://img.shields.io/badge/Status-In_Production-success?style=flat-square)](https://ptslab.ae) |
-| **[Google AI Studio App](https://github.com/Arvin-Asgari/google-developer-programs)** | **Generative AI & LLM Interface**<br>Modern web client built with Google AI Studio and the Gemini API, enabling real-time prompt engineering and intelligent agent workflows. | `React` `TypeScript` `Vite` `Google Gemini API` | [![Repository](https://img.shields.io/badge/Source-GitHub-blue?style=flat-square&logo=github)](https://github.com/Arvin-Asgari/google-developer-programs) |
-| **[GPT-2 Rumi Poem Generator](https://github.com/Arvin-Asgari/gpt2-rumi-poem-generator)** | **Persian NLP & Generative Modeling**<br>Fine-tuned GPT-2 on 6,000+ verses of classical Rumi poetry with temperature-controlled sampling for metric and rhyming Persian verse generation. | `PyTorch` `Hugging Face` `Transformers` `Python` | [![Repository](https://img.shields.io/badge/Source-GitHub-blue?style=flat-square&logo=github)](https://github.com/Arvin-Asgari/gpt2-rumi-poem-generator) |
-| **[Persian Sentiment Analysis](https://github.com/Arvin-Asgari/persian-sentiment-gpt2)** | **Text Classification & NLP**<br>Fine-tuned GPT-2 architecture for 3-class Persian sentiment analysis (positive, neutral, negative) tailored for consumer and social feedback. | `Python` `Hugging Face` `PyTorch` `Scikit-learn` | [![Repository](https://img.shields.io/badge/Source-GitHub-blue?style=flat-square&logo=github)](https://github.com/Arvin-Asgari/persian-sentiment-gpt2) |
-| **[Facial Feature Detection CNN](https://github.com/Arvin-Asgari/facial-feature-detection-cnn)** | **Computer Vision & Real-Time Inference**<br>Custom deep convolutional neural network trained on 2,000+ landmark-annotated images paired with an OpenCV live webcam inference pipeline. | `TensorFlow` `OpenCV` `CNN` `NumPy` | [![Repository](https://img.shields.io/badge/Source-GitHub-blue?style=flat-square&logo=github)](https://github.com/Arvin-Asgari/facial-feature-detection-cnn) |
-| **[Genetic Course Scheduler](https://github.com/Arvin-Asgari/course-scheduler-genetic-algorithm)** | **Heuristic Combinatorial Optimization**<br>Genetic algorithm optimizer solving multi-constraint university scheduling problems using 3 distinct crossover and mutation techniques. | `Python` `Genetic Algorithms` `Optimization` | [![Repository](https://img.shields.io/badge/Source-GitHub-blue?style=flat-square&logo=github)](https://github.com/Arvin-Asgari/course-scheduler-genetic-algorithm) |
-| **[Crypto & Financial Engine](https://github.com/Arvin-Asgari/cryptotools-core)** | **Localized Financial Calculator Platform**<br>Comprehensive financial and crypto calculation suite with full internationalization (EN, ES, TR) and responsive UI/UX architecture. | `Django` `JavaScript` `HTML5` `CSS3` | [![Repository](https://img.shields.io/badge/Source-GitHub-blue?style=flat-square&logo=github)](https://github.com/Arvin-Asgari/cryptotools-core) |
+| **[cryptotools.site](https://cryptotools.site)** | **Founder & Lead Developer**<br>Comprehensive multi-lingual financial and crypto calculation platform built with localized calculators, responsive UI/UX, and high-performance processing. | `Django` `JavaScript` `HTML5` `CSS3` | [![Live Platform](https://img.shields.io/badge/Live-cryptotools.site-10b981?style=flat-square&logo=google-chrome&logoColor=white)](https://cryptotools.site) [![Source](https://img.shields.io/badge/Core-GitHub-blue?style=flat-square&logo=github)](https://github.com/Arvin-Asgari/cryptotools-core) |
+| **Quotify Enterprise ERP** | **Lead System Architect**<br>B2B quotation engine (`PTS-Q-1405-xxx`), multi-site webhook integrations (WPForms/Elementor), real-time customer chat with infinite scroll, and Dockerized VPS deployment. | `Django` `React` `Docker` `Nginx` `PostgreSQL` | [![Production Client](https://img.shields.io/badge/Production-ptslab.ae-0056D2?style=flat-square)](https://ptslab.ae) [![Client](https://img.shields.io/badge/Production-polymertest.com-0284c7?style=flat-square)](https://polymertest.com) |
+| **[GPT-2 Rumi Poem Generator](https://github.com/Arvin-Asgari/gpt2-rumi-poem-generator)** | **Persian Generative NLP**<br>Fine-tuned GPT-2 on 6,000+ verses of classical Rumi poetry with temperature-controlled sampling for metric and rhyming Persian verse generation. | `PyTorch` `Hugging Face` `Transformers` `Python` | [![Repository](https://img.shields.io/badge/Source-GitHub-blue?style=flat-square&logo=github)](https://github.com/Arvin-Asgari/gpt2-rumi-poem-generator) |
+| **[Persian Sentiment Analysis](https://github.com/Arvin-Asgari/persian-sentiment-gpt2)** | **Text Classification & Sentiment Modeling**<br>Fine-tuned GPT-2 architecture for 3-class Persian sentiment analysis (positive, neutral, negative) tailored for consumer feedback. | `Python` `Hugging Face` `PyTorch` `Scikit-learn` | [![Repository](https://img.shields.io/badge/Source-GitHub-blue?style=flat-square&logo=github)](https://github.com/Arvin-Asgari/persian-sentiment-gpt2) |
+| **[Facial Feature Detection CNN](https://github.com/Arvin-Asgari/facial-feature-detection-cnn)** | **Computer Vision & Real-Time Inference**<br>Custom deep convolutional neural network trained on 2,000+ landmark-annotated images with OpenCV live webcam inference pipeline. | `TensorFlow` `OpenCV` `CNN` `NumPy` | [![Repository](https://img.shields.io/badge/Source-GitHub-blue?style=flat-square&logo=github)](https://github.com/Arvin-Asgari/facial-feature-detection-cnn) |
+| **[Genetic Course Scheduler](https://github.com/Arvin-Asgari/course-scheduler-genetic-algorithm)** | **Heuristic Combinatorial Optimization**<br>Genetic algorithm optimizer solving complex timetable constraints using 3 crossover methods to eliminate professor and room conflicts. | `Python` `Genetic Algorithms` `Optimization` | [![Repository](https://img.shields.io/badge/Source-GitHub-blue?style=flat-square&logo=github)](https://github.com/Arvin-Asgari/course-scheduler-genetic-algorithm) |
+| **[Knapsack GA Solver](https://github.com/Arvin-Asgari/knapsack-genetic-algorithm)** | **Algorithmic Optimization**<br>Evolutionary algorithm resolving the classic NP-hard 0/1 knapsack problem with configurable CSV dataset ingestion. | `Python` `Genetic Algorithms` `Optimization` | [![Repository](https://img.shields.io/badge/Source-GitHub-blue?style=flat-square&logo=github)](https://github.com/Arvin-Asgari/knapsack-genetic-algorithm) |
 
 ---
 
@@ -70,7 +71,6 @@ I am a **Full-Stack & Applied AI Engineer** passionate about turning complex alg
 ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/-Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 #### 🌐 Web & Full-Stack Development
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -93,29 +93,17 @@ I am a **Full-Stack & Applied AI Engineer** passionate about turning complex alg
 
 ---
 
-### 📈 Activity & Streak
-
-<div align="center">
-  <a href="https://github.com/Arvin-Asgari">
-    <img src="https://streak-stats.demolab.com/?user=Arvin-Asgari&theme=tokyonight&hide_border=true&card_width=680" alt="GitHub Streak" />
-  </a>
-</div>
-
----
-
 ### 📬 Connect With Me
 
 <div align="center">
 
-Feel free to reach out for collaborations, enterprise architectural consulting, or AI/ML discussions!
-
-[![Email Badge](https://img.shields.io/badge/Email-arvin.asgari.business%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arvin.asgari.business@gmail.com)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-Arvin--Asgari-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arvin-Asgari)
-[![Production Website Badge](https://img.shields.io/badge/Production_Site-ptslab.ae-0056D2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ptslab.ae)
+[![Website: cryptotools.site](https://img.shields.io/badge/Platform-cryptotools.site-10b981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cryptotools.site)
+[![Email](https://img.shields.io/badge/Email-arvin.asgari3%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arvin.asgari3@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Arvin--Asgari-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arvin-Asgari)
 
 <br/>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26,14,1&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26,14,1&height=100&section=footer" width="100%" />
 
 </div>
