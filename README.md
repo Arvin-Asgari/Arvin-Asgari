@@ -18,13 +18,13 @@
   </a>
 </p>
 
-<!-- Production Client Sites -->
+<!-- Production Websites & Highlights -->
 <p align="center">
-  <a href="https://ptslab.ae" target="_blank">
-    <img src="https://img.shields.io/badge/Production%20Client-ptslab.ae-0056D2?style=flat-square&logo=google-chrome&logoColor=white" alt="ptslab.ae" />
-  </a>
   <a href="https://polymertest.com" target="_blank">
-    <img src="https://img.shields.io/badge/Production%20Client-polymertest.com-0284c7?style=flat-square&logo=google-chrome&logoColor=white" alt="polymertest.com" />
+    <img src="https://img.shields.io/badge/Company-polymertest.com-0284c7?style=flat-square&logo=google-chrome&logoColor=white" alt="polymertest.com" />
+  </a>
+  <a href="https://ptslab.ae" target="_blank">
+    <img src="https://img.shields.io/badge/Production%20Website-ptslab.ae-0056D2?style=flat-square&logo=google-chrome&logoColor=white" alt="ptslab.ae" />
   </a>
   <img src="https://img.shields.io/badge/Google%20Assistant-Developer%20(2018)-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Assistant Developer" />
   <img src="https://img.shields.io/badge/Education-B.Sc.%20Computer%20Engineering%20(Guilan%20Univ%202024)-0ea5e9?style=flat-square&logo=google-scholar&logoColor=white" alt="Guilan University" />
@@ -36,10 +36,11 @@
 
 ### 👨‍💻 About Me
 
-I am a **Full-Stack Software Engineer & AI/ML Specialist** building high-reliability web platforms, optimization engines, and applied machine learning models.
+I am a **Full-Stack Software Engineer & AI/ML Specialist** building high-reliability web platforms, enterprise ERP architectures, and applied machine learning models.
 
-* 🚀 **Founder of [cryptotools.site](https://cryptotools.site):** Creator of a high-performance financial and cryptocurrency calculation platform localized in multiple languages (EN, ES, TR).
-* 🏢 **Enterprise Systems Architect:** Lead architect and developer of **Quotify** (v6.0.2), an enterprise B2B quotation, invoicing, and real-time chat automation system powering **PTS Lab** ([ptslab.ae](https://ptslab.ae) & [polymertest.com](https://polymertest.com)).
+* 🚀 **Founder of [cryptotools.site](https://cryptotools.site):** Creator and lead engineer of a dedicated financial and cryptocurrency calculation platform localized in multiple languages (EN, ES, TR).
+* 🏢 **Enterprise ERP Architect (Quotify):** Sole creator and architect of **Quotify** (v6.0.2), an enterprise-grade ERP built exclusively for **Azmoon Polymer Sepahan (APS / [polymertest.com](https://polymertest.com))**. The system features an end-to-end B2B quotation & proforma engine, an integrated standalone real-time chat system, clean relational databases for products and customer management, and automated business workflows.
+* 🌐 **Production Web Development:** Built and launched **[ptslab.ae](https://ptslab.ae)** as an independent, complete commercial production website.
 * 🤖 **Applied AI & Persian NLP:** Experienced in fine-tuning Transformer LLMs (GPT-2 for classical Persian poetry generation and 3-class sentiment analysis) and real-time Computer Vision pipelines (CNNs + OpenCV).
 * 🧬 **Combinatorial Optimization:** Designing custom genetic algorithms to eliminate multi-constraint operational bottlenecks (university timetable scheduling and knapsack optimization).
 * 🏅 **Google Assistant Developer (2018):** Early developer in conversational AI and voice assistant integrations.
@@ -51,7 +52,8 @@ I am a **Full-Stack Software Engineer & AI/ML Specialist** building high-reliabi
 | Project | Role & Description | Tech Stack | Status / Links |
 | :--- | :--- | :--- | :--- |
 | **[cryptotools.site](https://cryptotools.site)** | **Founder & Lead Developer**<br>Comprehensive multi-lingual financial and crypto calculation platform built with localized calculators, responsive UI/UX, and high-performance processing. | `Django` `JavaScript` `HTML5` `CSS3` | [![Live Platform](https://img.shields.io/badge/Live-cryptotools.site-10b981?style=flat-square&logo=google-chrome&logoColor=white)](https://cryptotools.site) [![Source](https://img.shields.io/badge/Core-GitHub-blue?style=flat-square&logo=github)](https://github.com/Arvin-Asgari/cryptotools-core) |
-| **Quotify Enterprise ERP** | **Lead System Architect**<br>B2B quotation engine (`PTS-Q-1405-xxx`), multi-site webhook integrations (WPForms/Elementor), real-time customer chat with infinite scroll, and Dockerized VPS deployment. | `Django` `React` `Docker` `Nginx` `PostgreSQL` | [![Production Client](https://img.shields.io/badge/Production-ptslab.ae-0056D2?style=flat-square)](https://ptslab.ae) [![Client](https://img.shields.io/badge/Production-polymertest.com-0284c7?style=flat-square)](https://polymertest.com) |
+| **Quotify Enterprise ERP** | **Lead System Architect & Developer**<br>Full-scale proprietary ERP built exclusively for **Azmoon Polymer Sepahan (APS)**. Features an automated B2B quotation & proforma engine, an integrated standalone real-time chat platform, unified product and customer databases, and Dockerized VPS deployment. | `Django` `React` `Docker` `Nginx` `PostgreSQL` | [![Company Site](https://img.shields.io/badge/Company-polymertest.com-0284c7?style=flat-square&logo=google-chrome&logoColor=white)](https://polymertest.com) [![Status](https://img.shields.io/badge/Status-In_Production_(v6.0.2)-success?style=flat-square)](#) |
+| **[ptslab.ae](https://ptslab.ae)** | **Full-Stack Web Developer**<br>Independent commercial production website built solo for PTS Lab with custom responsive styling, performance optimization, and international client presence. | `HTML5` `CSS3` `JavaScript` `WordPress` | [![Live Site](https://img.shields.io/badge/Live-ptslab.ae-0056D2?style=flat-square&logo=google-chrome&logoColor=white)](https://ptslab.ae) [![Source](https://img.shields.io/badge/Repository-GitHub-blue?style=flat-square&logo=github)](https://github.com/Arvin-Asgari/ptslab-ae-website) |
 | **[GPT-2 Rumi Poem Generator](https://github.com/Arvin-Asgari/gpt2-rumi-poem-generator)** | **Persian Generative NLP**<br>Fine-tuned GPT-2 on 6,000+ verses of classical Rumi poetry with temperature-controlled sampling for metric and rhyming Persian verse generation. | `PyTorch` `Hugging Face` `Transformers` `Python` | [![Repository](https://img.shields.io/badge/Source-GitHub-blue?style=flat-square&logo=github)](https://github.com/Arvin-Asgari/gpt2-rumi-poem-generator) |
 | **[Persian Sentiment Analysis](https://github.com/Arvin-Asgari/persian-sentiment-gpt2)** | **Text Classification & Sentiment Modeling**<br>Fine-tuned GPT-2 architecture for 3-class Persian sentiment analysis (positive, neutral, negative) tailored for consumer feedback. | `Python` `Hugging Face` `PyTorch` `Scikit-learn` | [![Repository](https://img.shields.io/badge/Source-GitHub-blue?style=flat-square&logo=github)](https://github.com/Arvin-Asgari/persian-sentiment-gpt2) |
 | **[Facial Feature Detection CNN](https://github.com/Arvin-Asgari/facial-feature-detection-cnn)** | **Computer Vision & Real-Time Inference**<br>Custom deep convolutional neural network trained on 2,000+ landmark-annotated images with OpenCV live webcam inference pipeline. | `TensorFlow` `OpenCV` `CNN` `NumPy` | [![Repository](https://img.shields.io/badge/Source-GitHub-blue?style=flat-square&logo=github)](https://github.com/Arvin-Asgari/facial-feature-detection-cnn) |
